@@ -1,1 +1,32 @@
-
+[
+  {
+    "name": "Публичные парсеры",
+    "url": "https://lampame.github.io/main/pubtorr.js",
+    "enabled": true
+  },
+  {
+    "name": "TorrServer",
+    "url": "http://cub.red/plugin/etor",
+    "enabled": true
+  },
+  {
+    "name": "Прокси",
+    "url": "http://cub.red/plugin/tmdb-proxy",
+    "enabled": true
+  },
+  {
+    "name": "Логотипы вместо названий",
+    "url": "https://lampaplugins.github.io/store/logo.js",
+    "enabled": true
+  },
+  {
+    "name": "Пираты",
+    "url": "https://skaztv.online/store.js",
+    "enabled": true
+  },
+  {
+    "name": "Оформление",
+    "url": "http://skaztv.online/js/tricks.js",
+    "enabled": true
+  }
+]
