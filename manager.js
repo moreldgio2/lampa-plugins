@@ -1,1 +1,1 @@
-var REMOTE_URL = 'https://moreldgio2.github.io/lampa-plugins/plugins.json';
+var REMOTE_URL = 'https://moreldigo2.github.io/lampa-plugins/plugins.json';
